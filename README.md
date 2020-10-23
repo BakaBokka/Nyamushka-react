@@ -8,7 +8,8 @@ https://bakabokka.github.io/Nyamushka-react/index.html
 * There is nothing you can do with the disabled cards. They are disabled, come on...
 
 
-===
+*****
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
