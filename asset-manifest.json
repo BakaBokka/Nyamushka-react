@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Nyamushka-react/index.html/static/css/main.3b8b8455.chunk.css",
-    "main.js": "/Nyamushka-react/index.html/static/js/main.3d367802.chunk.js",
-    "main.js.map": "/Nyamushka-react/index.html/static/js/main.3d367802.chunk.js.map",
-    "runtime-main.js": "/Nyamushka-react/index.html/static/js/runtime-main.9be1f8e8.js",
-    "runtime-main.js.map": "/Nyamushka-react/index.html/static/js/runtime-main.9be1f8e8.js.map",
-    "static/js/2.da530201.chunk.js": "/Nyamushka-react/index.html/static/js/2.da530201.chunk.js",
-    "static/js/2.da530201.chunk.js.map": "/Nyamushka-react/index.html/static/js/2.da530201.chunk.js.map",
-    "index.html": "/Nyamushka-react/index.html/index.html",
-    "precache-manifest.588d7e6f0c33633d3aa32ca3f5bff89b.js": "/Nyamushka-react/index.html/precache-manifest.588d7e6f0c33633d3aa32ca3f5bff89b.js",
-    "service-worker.js": "/Nyamushka-react/index.html/service-worker.js",
-    "static/css/main.3b8b8455.chunk.css.map": "/Nyamushka-react/index.html/static/css/main.3b8b8455.chunk.css.map",
-    "static/js/2.da530201.chunk.js.LICENSE.txt": "/Nyamushka-react/index.html/static/js/2.da530201.chunk.js.LICENSE.txt",
-    "static/media/index.scss": "/Nyamushka-react/index.html/static/media/TrebuchetMS.34723a2f.woff",
-    "static/media/Nyamushka.scss": "/Nyamushka-react/index.html/static/media/background-pattern.113f6eed.png",
-    "static/media/Card.scss": "/Nyamushka-react/index.html/static/media/cat.84b89cb3.png"
+    "main.css": "/Nyamushka-react/static/css/main.d7b00c94.chunk.css",
+    "main.js": "/Nyamushka-react/static/js/main.3d367802.chunk.js",
+    "main.js.map": "/Nyamushka-react/static/js/main.3d367802.chunk.js.map",
+    "runtime-main.js": "/Nyamushka-react/static/js/runtime-main.399c60d1.js",
+    "runtime-main.js.map": "/Nyamushka-react/static/js/runtime-main.399c60d1.js.map",
+    "static/js/2.da530201.chunk.js": "/Nyamushka-react/static/js/2.da530201.chunk.js",
+    "static/js/2.da530201.chunk.js.map": "/Nyamushka-react/static/js/2.da530201.chunk.js.map",
+    "index.html": "/Nyamushka-react/index.html",
+    "precache-manifest.07754fc3b33b915d7d7f1273e76e8e1f.js": "/Nyamushka-react/precache-manifest.07754fc3b33b915d7d7f1273e76e8e1f.js",
+    "service-worker.js": "/Nyamushka-react/service-worker.js",
+    "static/css/main.d7b00c94.chunk.css.map": "/Nyamushka-react/static/css/main.d7b00c94.chunk.css.map",
+    "static/js/2.da530201.chunk.js.LICENSE.txt": "/Nyamushka-react/static/js/2.da530201.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/Nyamushka-react/static/media/TrebuchetMS.34723a2f.woff",
+    "static/media/Nyamushka.scss": "/Nyamushka-react/static/media/background-pattern.113f6eed.png",
+    "static/media/Card.scss": "/Nyamushka-react/static/media/cat.84b89cb3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9be1f8e8.js",
+    "static/js/runtime-main.399c60d1.js",
     "static/js/2.da530201.chunk.js",
-    "static/css/main.3b8b8455.chunk.css",
+    "static/css/main.d7b00c94.chunk.css",
     "static/js/main.3d367802.chunk.js"
   ]
 }
